@@ -1,11 +1,15 @@
 # rtg
 rtg bash script
+
 This is a script which allows you to open your file with custom one not just v to open your file with custom one not just vim or nano or so other in termux.
 
 I will also add sponge alike feature in this script;So,no need of moreutils if your are using only for sponge command.
 
+
 Installing pkg[script]:
+
 1.Goto to a folder in your device and place this file "rtg"
+
 2.Now type command
 bash rtg
 
