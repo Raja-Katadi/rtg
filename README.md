@@ -29,4 +29,4 @@ Note:
 2.The files are saved at "linux_bash_temp" directory;You can manually delete that folder if you wish.
 
 3.This is a newbie friendly script but has enough power.
-Watch the video completely for further understanding...iyr
+Watch the video completely for further understanding located at repo "termux starting banner replacement".
