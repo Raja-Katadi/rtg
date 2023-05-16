@@ -1,7 +1,7 @@
 # rtg
 rtg custom file editor bash script
 
-This is a script which allows you to open your file with custom one not just v to open your file with custom one not just vim or nano or so other in termux.
+This is a script which allows you to open your file with custom one so no need of vim or nano or others in termux.
 
 I will also add sponge alike feature in this script;So,no need of moreutils if your are using only for sponge command.
 
