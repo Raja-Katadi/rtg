@@ -1,5 +1,5 @@
 # rtg
-rtg bash script
+rtg custom file editor bash script
 
 This is a script which allows you to open your file with custom one not just v to open your file with custom one not just vim or nano or so other in termux.
 
